@@ -1,0 +1,20 @@
+{
+  "name": "simulador-de-corridas-mario-kart",
+  "version": "1.0.0",
+  "description": "Esse projeto é um estudo do curso de Node.js da DIO onde vou aprimorar minha lógica com o Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuflorenca/Simulador-de-corridas-Mario-Kart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuflorenca/Simulador-de-corridas-Mario-Kart/issues"
+  },
+  "homepage": "https://github.com/manuflorenca/Simulador-de-corridas-Mario-Kart#readme"
+}
